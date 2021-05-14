@@ -4,7 +4,7 @@ export const cases = [
       title: "Portfolio Website",
       technologies: "React, SCSS",
       github: "",
-      text: "",
+      text: "Portfolio website til eget brug",
       img:
         "",
     },
@@ -13,12 +13,12 @@ export const cases = [
       title: "Bachelor Projekt",
       technologies: "React, Node, Express, SCSS, MySQL",
       github: "https://github.com/shifu13/BachelorProjectImprovements",
-      text: "Bachelor projekt",
+      text: "Bachelor projekt med henblik på automatisere manuelt arbejde",
       img:
         "",
     },
     {
-      id: 2,
+      id: 3,
       title: "DR Flickr API",
       technologies: "Angular",
       github: "https://github.com/shifu13/DR",
